@@ -1,1 +1,1 @@
-# OmicsImaging
+# OmicsMapNet
